@@ -17,3 +17,12 @@ whether they contain a valid prokaryotic coding sequence (ORF).
 - THERE IS A CORRECT SEQ
 - NO
 
+
+
+
+** This project was developed as part of the course:
+
+UNIX and Programming Principles  
+MSc Program – Democritus University of Thrace (DUTH)  
+Academic Year: 2025–2026
+**
