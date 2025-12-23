@@ -20,7 +20,7 @@ whether they contain a valid prokaryotic coding sequence (ORF).
 
 
 
-# This project was developed as part of the course:UNIX and Programming Principles  
-# MSc Program – Democritus University of Thrace (DUTH)  
-# Academic Year: 2025–2026
+##### This project was developed as part of the course:UNIX and Programming Principles  
+##### MSc Program – Democritus University of Thrace (DUTH)  
+##### Academic Year: 2025–2026
 **
